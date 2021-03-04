@@ -1,0 +1,2 @@
+# Stock_prediction_app-using_LSTM
+ https://nse-predictions-app.herokuapp.com/ Intra day trading involves buying and selling of stocks within the same trading day. Here stocks are purchased, not with an intention to invest, but for the purpose of earning profits by harnessing the movement of stock indices. The following app predicts the weighted average stock prices of top 50 (Nifty50 ) and top 100 (Nifty100) companies on an hourly basis everyday. 
