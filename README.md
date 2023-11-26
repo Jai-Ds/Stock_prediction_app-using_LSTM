@@ -6,7 +6,7 @@
 
 ## Overview
 
-This Flask web application provides hourly forecasts for Nifty50 and Nifty100 indices. It utilizes machine learning models to predict future values and displays the results on a user-friendly interface.
+This Flask web application provides hourly forecasts for Nifty50 and Nifty100 indices. It utilizes the LSTM Deep learning (Time Series) model to predict future values and displays the results on a user-friendly interface.
 
 ## Project Structure
 
